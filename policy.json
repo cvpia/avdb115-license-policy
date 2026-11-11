@@ -3,14 +3,14 @@
   "kind": "policy",
   "key_id": "license-202611",
   "payload": {
-    "revision": 1,
+    "revision": 2,
     "min_version": "1.0.7.8",
     "latest_version": "1.0.7.8",
-    "update_url": "https://github.com/OWNER/avdb115/releases/latest",
+    "update_url": "https://github.com/cvpia/115-muse/releases/latest",
     "notice": "",
-    "issued_at": "2026-11-11T10:53:10Z",
+    "issued_at": "2026-11-11T11:39:42Z",
     "revoked_licenses": [],
     "revoked_cards": []
   },
-  "signature": "ZnLyIGCTT2B52QwFNFpz5VSwwr78tt6HfCq7LOx-CD9aOZlhByAzHrHJRRzB6cBRP2G8RLWCIk9hY8gpoU1YCg"
+  "signature": "0ah2Dg6UUv_HsJtJY_MeB-ZbvadZBV4_uEp1SgGKWQd8sc4KBgRG3e_9ZbFKz9-S330wfMZLn0R-8-5AT8bBDg"
 }
